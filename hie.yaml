@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "app/Main.hs"
+      component: "problematic-extension-finder:exe:problematic-extension-finder"
